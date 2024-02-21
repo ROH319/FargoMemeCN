@@ -954,12 +954,12 @@ WillForce: {
 }
 
 AbominableWand: {
-	DisplayName: 憎恶手杖
+	DisplayName: 永恒群冠手杖
 	Tooltip:
 		'''
-		免疫憎恶毒牙和憎恶驾到减益
+		免疫永恒群冠毒牙和永恒群冠驾到减益
 		增加闪烁崇心的擦弹伤害加成，红心发射冷却减半
-		暴击时偶尔会召唤幽灵憎恶
+		暴击时偶尔会召唤幽灵永恒群冠
 		装备冥河套装时，闪烁崇心擦弹计满也会增加冥河能量
 		受到致命伤害时，保留1点生命值并避免死亡
 		你再次恢复到满生命值后，免死效果才能再被激活
@@ -1341,7 +1341,7 @@ MutantEye: {
 		闪烁崇心的擦弹伤害加成上限增加25%
 		将闪烁崇心的心攻击加强为爱之射线
 		增加闪烁崇心的擦弹伤害加成
-		提升幽灵憎恶的出现频率和攻击力
+		提升幽灵永恒群冠的出现频率和攻击力
 		按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕
 		突变炸弹有60秒的冷却时间
 		“有点可疑”
@@ -2053,7 +2053,7 @@ StyxLeggings: {
 }
 
 AbomBag: {
-	DisplayName: 宝藏袋（憎恶）
+	DisplayName: 宝藏袋（永恒群冠）
 	Tooltip: 右键点击可打开
 }
 
@@ -2152,7 +2152,7 @@ GaiaDye: {
 }
 
 AbomEnergy: {
-	DisplayName: 憎恶能量
+	DisplayName: 永恒群冠能量
 	Tooltip: ""
 }
 
@@ -2247,7 +2247,7 @@ BabyScythe: {
 	DisplayName: 小镰刀
 	Tooltip:
 		'''
-		召唤憎恶宝宝
+		召唤永恒群冠宝宝
 		“别担心，它很迟钝”
 		'''
 }
@@ -2381,7 +2381,7 @@ HokeyBall: {
 }
 
 AbomRelic: {
-	DisplayName: 憎恶圣物
+	DisplayName: 永恒群冠圣物
 	Tooltip: ""
 }
 
@@ -2446,7 +2446,7 @@ WillChampionRelic: {
 }
 
 AbomTrophy: {
-	DisplayName: 憎恶纪念章
+	DisplayName: 永恒群冠纪念章
 	Tooltip: ""
 }
 
@@ -2496,10 +2496,10 @@ TwentyTwoPainting: {
 }
 
 AbominationnVoodooDoll: {
-	DisplayName: 憎恶巫毒娃娃
+	DisplayName: 永恒群冠巫毒娃娃
 	Tooltip:
 		'''
-		召唤憎恶到你的城镇
+		召唤永恒群冠到你的城镇
 		“你可真是个坏东西”
 		'''
 	// the custom spawn message is unused
@@ -2508,7 +2508,7 @@ AbominationnVoodooDoll: {
 }
 
 AbomsCurse: {
-	DisplayName: 憎恶诅咒
+	DisplayName: 永恒群冠诅咒
 	Tooltip: 必须在地表使用
 }
 
@@ -3119,7 +3119,7 @@ LifeRevitalizer: {
 }
 
 AbomMusicBox: {
-	DisplayName: 音乐盒（憎恶）
+	DisplayName: 音乐盒（永恒群冠）
 	Tooltip: Yuri O 'Laevateinn'
 }
 

@@ -89,7 +89,7 @@ SinisterIconDropsEffect: 战利品掉落
 MasoGraze: 擦弹
 MasoGrazeRing: 擦弹范围可视化
 DevianttHearts: 追踪红心攻击
-AbomWandCrit: 幽灵憎恶攻击
+AbomWandCrit: 幽灵永恒群冠攻击
 SupremeFairyHeader: "{$Mods.FargowiltasSouls.Items.SupremeDeathbringerFairy.DisplayName}"
 SlimyShieldEffect: 凝胶球
 SlimeFallEffect: 提高下落速度
@@ -137,7 +137,7 @@ UfoMinionEffect: 迷你飞碟召唤物
 MasoGravEffect: 重力控制
 MasoTrueEyeMinion: 克苏鲁真眼召唤物
 MutantArmorHeader: 真·突变体套装
-MasoAbom: 幽灵憎恶
+MasoAbom: 幽灵永恒群冠
 MasoRing: 幻影球召唤物
 UniverseHeader: "{$Mods.FargowiltasSouls.Items.UniverseSoul.DisplayName}"
 MeleeSpeedEffect: 近战攻速加成

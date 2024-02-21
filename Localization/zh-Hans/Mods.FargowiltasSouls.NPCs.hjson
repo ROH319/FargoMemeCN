@@ -1,11 +1,11 @@
 AbomBoss: {
-	DisplayName: 憎恶
+	DisplayName: 永恒群冠
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.AbomBoss.DisplayName}"
 		SpawnInfo: 使用[i:FargowiltasSouls/AbomsCurse]召唤。
-		DespawnMessage: 憎恶找不到有价值的对手……
-		KilledAllMessage: 憎恶摧毁了所有人。
+		DespawnMessage: 永恒群冠找不到有价值的对手……
+		KilledAllMessage: 永恒群冠摧毁了所有人。
 	}
 }
 
@@ -148,7 +148,7 @@ MutantBoss: {
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.MutantBoss.DisplayName}"
-		SpawnInfo: 在突变体和憎恶存活时将[i:FargowiltasSouls/AbominationnVoodooDoll]投入岩浆池中。
+		SpawnInfo: 在突变体和永恒群冠存活时将[i:FargowiltasSouls/AbominationnVoodooDoll]投入岩浆池中。
 		DespawnMessage: 突变体再次将自己的力量封印起来……
 		KilledAllMessage: 突变体肃清了他周围的每一个生灵。
 	}
@@ -233,7 +233,7 @@ MutantBoss: {
 			若吾乃苍穹高悬的太阳，汝即为荒瀚垂死的蝼蚁。
 			汝之存在将被崩解，仅剩随风而逝的齑粉与末路穷途的余晖。
 			你一切的行动都在吾永恒的洞察中。
-			吾以巨像之拳巍然伫立，以幻影之眼洞悉周遭，以蜿蜒之蔓裹束宿命，以憎恶之蜂贯穿终始，以天赐之脑解构万象，猎手之翼振翅九霄！
+			吾以巨像之拳巍然伫立，以幻影之眼洞悉周遭，以蜿蜒之蔓裹束宿命，以永恒群冠之蜂贯穿终始，以天赐之脑解构万象，猎手之翼振翅九霄！
 			微不足道的虫豸，汝之名姓将没于历史长河！
 			'''
 		Quote1: 交出你的灵魂吧！

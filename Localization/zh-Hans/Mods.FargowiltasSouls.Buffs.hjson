@@ -9,7 +9,7 @@ AccursedSarcophagusBuff: {
 }
 
 BabyAbomBuff: {
-	DisplayName: 憎恶宝宝
+	DisplayName: 永恒群冠宝宝
 	Description: 在镰刀上踢翻镰刀
 }
 
@@ -114,12 +114,12 @@ BetsyDashBuff: {
 }
 
 AbomFangBuff: {
-	DisplayName: 憎恶毒牙
+	DisplayName: 永恒群冠毒牙
 	Description: 永恒模式的力量压迫着你
 }
 
 AbomPresenceBuff: {
-	DisplayName: 憎恶驾到
+	DisplayName: 永恒群冠驾到
 	Description: 减少防御力、伤害减免和生命恢复速度，附带月蛭凝块效果
 }
 
@@ -164,12 +164,12 @@ MagicalCleanseCDBuff: {
 }
 
 AbomCooldownBuff: {
-	DisplayName: 憎恶冷却
+	DisplayName: 永恒群冠冷却
 	Description: 还不能承受另一次攻击
 }
 
 AbomRebirthBuff: {
-	DisplayName: 憎恶重生
+	DisplayName: 永恒群冠重生
 	Description: 除非受击，你无法死亡
 }
 
