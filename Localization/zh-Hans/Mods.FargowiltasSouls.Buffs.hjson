@@ -615,7 +615,7 @@ ShellHideBuff: {
 
 SnowstormCDBuff: {
 	DisplayName: 暴雪冷却
-	Description: 你现在不能冻结一切
+	Description: 你现在不能砸瓦鲁多
 }
 
 SolarFlareBuff: {
@@ -634,7 +634,7 @@ CorruptingBuff: {
 }
 
 TimeFrozenBuff: {
-	DisplayName: 时间冻结
+	DisplayName: 砸瓦鲁多
 	Description: 你停止了时间
 }
 

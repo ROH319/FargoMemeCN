@@ -218,8 +218,8 @@ FrostEnchant: {
 		'''
 		你的周围会出现冰锥
 		攻击时会将冰锥发射至光标位置
-		冰锥击中敌人时会使其短暂冻结，并造成冻伤减益
-		按下“冻结”键后将一切冻结20秒，并造成霜冻减益
+		冰锥击中敌人时会使其短暂砸瓦鲁多，并造成冻伤减益
+		按下“砸瓦鲁多”键后将一切砸瓦鲁多20秒，并造成霜冻减益
 		效果有60秒的冷却时间
 		“让我们给这个世界披上一层厚厚的冰衣”
 		'''
@@ -568,7 +568,7 @@ SnowEnchant: {
 	Tooltip:
 		'''
 		你的攻击造成短暂的霜冻减益
-		按下“冻结”键后将一切冻结15秒，并造成霜冻减益
+		按下“砸瓦鲁多”键后将一切砸瓦鲁多15秒，并造成霜冻减益
 		效果有60秒的冷却时间
 		“冷的要死”
 		'''
@@ -631,8 +631,8 @@ StardustEnchant: {
 	Tooltip:
 		'''
 		星尘守卫将保护你不受附近敌人的伤害
-		按下“冻结”键后会冻结时间，持续5秒
-		你的召唤物不受时间冻结影响
+		按下“砸瓦鲁多”键后会砸瓦鲁多，持续5秒
+		你的召唤物不受砸瓦鲁多影响
 		此效果有60秒冷却时间
 		“你成为了替身使者”
 		'''
@@ -819,7 +819,7 @@ CosmoForce: {
 		[i:FargowiltasSouls/VortexEnchant] 双击“下”键切换至隐形模式，生成一个旋涡
 		[i:FargowiltasSouls/NebulaEnchant] 对敌人造成伤害时有几率生成强化焰
 		[i:FargowiltasSouls/StardustEnchant] 星尘守卫将保护你不受附近敌人的伤害
-		[i:FargowiltasSouls/StardustEnchant] 按下“冻结”键后会冻结时间，持续9秒，有50秒冷却时间
+		[i:FargowiltasSouls/StardustEnchant] 按下“砸瓦鲁多”键后会砸瓦鲁多，持续9秒，有50秒冷却时间
 		“自宇宙大爆炸以来就一直存在”
 		'''
 }
@@ -861,7 +861,7 @@ NatureForce: {
 		[i:FargowiltasSouls/MoltenEnchant] 引燃你附近较大范围内的敌人
 		[i:FargowiltasSouls/MoltenEnchant] 所有敌怪在狱火圈内时多受到50%伤害
 		[i:FargowiltasSouls/RainEnchant] 召唤一把可反射上方弹幕的雨伞
-		[i:FargowiltasSouls/SnowEnchant] 你的周围会出现冰锥，按下“冻结”键后将一切冻结20秒，并造成霜冻减益
+		[i:FargowiltasSouls/SnowEnchant] 你的周围会出现冰锥，按下“砸瓦鲁多”键后将一切砸瓦鲁多20秒，并造成霜冻减益
 		[i:FargowiltasSouls/ChlorophyteEnchant] 召唤一圈叶绿水晶攻击附近的敌人
 		[i:FargowiltasSouls/JungleEnchant] 使你获得孢子二段跳和孢子冲刺的能力
 		[i:FargowiltasSouls/ShroomiteEnchant] 站定不动时使你进入隐身状态
@@ -1816,7 +1816,7 @@ TerrariaSoul: {
 		召唤火球、暗影珠、冰锥、叶绿水晶、爆炸烈焰哨兵、神圣剑盾和甲虫
 		右键进行盾牌格挡
 		双击“下”键后会召唤一个哨兵、旗子、传送门、风暴并切换至隐形状态
-		按下“金身”键后会将你包裹在一个黄金壳中，按下“冻结”键后会冻结9秒时间，召唤物会释放镰刀
+		按下“金身”键后会将你包裹在一个黄金壳中，按下“砸瓦鲁多”键后会砸瓦鲁多9秒，召唤物会释放镰刀
 		允许你使用日耀护盾进行冲刺，冲进墙壁时会直接穿过去
 		扔出烟雾弹后会将你传送至其落点的位置并使你获得先发制人增益
 		攻击有几率生成闪电、风暴云、花瓣、幽魂珠、地牢守卫、雪球、长矛或强化增益
