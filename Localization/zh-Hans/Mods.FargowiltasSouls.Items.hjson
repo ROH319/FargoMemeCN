@@ -1,5 +1,5 @@
 AdamantiteEnchant: {
-	DisplayName: 精金魔石
+	DisplayName: 精金覆膜
 	Tooltip:
 		'''
 		你发射出的所有弹幕都会分裂成两个
@@ -11,7 +11,7 @@ AdamantiteEnchant: {
 }
 
 AncientCobaltEnchant: {
-	DisplayName: 远古钴魔石
+	DisplayName: 远古钴覆膜
 	Tooltip:
 		'''
 		获得一次爆炸跳跃并造成浸油减益，且使玩家短暂无敌
@@ -20,7 +20,7 @@ AncientCobaltEnchant: {
 }
 
 AncientHallowEnchant: {
-	DisplayName: 远古神圣魔石
+	DisplayName: 远古神圣覆膜
 	Tooltip:
 		'''
 		召唤一柄泰拉棱镜，其伤害接受召唤伤害加成
@@ -33,7 +33,7 @@ AncientHallowEnchant: {
 }
 
 AncientShadowEnchant: {
-	DisplayName: 远古暗影魔石
+	DisplayName: 远古暗影覆膜
 	Tooltip:
 		'''
 		攻击有几率造成黑暗减益
@@ -44,7 +44,7 @@ AncientShadowEnchant: {
 }
 
 ApprenticeEnchant: {
-	DisplayName: 学徒魔石
+	DisplayName: 学徒覆膜
 	Tooltip:
 		'''
 		攻击时，发射快捷栏位中的下一把武器的射弹作为辅助攻击
@@ -57,7 +57,7 @@ ApprenticeEnchant: {
 }
 
 AshWoodEnchant: {
-	DisplayName: 灰烬木魔石
+	DisplayName: 灰烬木覆膜
 	Tooltip:
 		'''
 		“着火了！”减益不再伤害你与城镇NPC
@@ -70,7 +70,7 @@ AshWoodEnchant: {
 }
 
 BeeEnchant: {
-	DisplayName: 蜜蜂魔石
+	DisplayName: 蜜蜂覆膜
 	Tooltip:
 		'''
 		增加友好蜜蜂的力量
@@ -83,7 +83,7 @@ BeeEnchant: {
 }
 
 BeetleEnchant: {
-	DisplayName: 甲虫魔石
+	DisplayName: 甲虫覆膜
 	Tooltip:
 		'''
 		甲虫增加你的近战伤害和速度
@@ -94,7 +94,7 @@ BeetleEnchant: {
 }
 
 BorealWoodEnchant: {
-	DisplayName: 针叶木魔石
+	DisplayName: 针叶木覆膜
 	Tooltip:
 		'''
 		攻击时定期释放几个雪球
@@ -103,7 +103,7 @@ BorealWoodEnchant: {
 }
 
 CactusEnchant: {
-	DisplayName: 仙人掌魔石
+	DisplayName: 仙人掌覆膜
 	Tooltip:
 		'''
 		攻击时，你会释放出一圈针刺
@@ -114,7 +114,7 @@ CactusEnchant: {
 }
 
 ChlorophyteEnchant: {
-	DisplayName: 叶绿魔石
+	DisplayName: 叶绿覆膜
 	Tooltip:
 		'''
 		召唤一圈叶绿水晶攻击附近的敌人
@@ -126,7 +126,7 @@ ChlorophyteEnchant: {
 }
 
 CobaltEnchant: {
-	DisplayName: 钴蓝魔石
+	DisplayName: 钴蓝覆膜
 	Tooltip:
 		'''
 		获得一次爆炸跳跃并造成浸油减益，且使玩家短暂无敌
@@ -136,7 +136,7 @@ CobaltEnchant: {
 }
 
 CopperEnchant: {
-	DisplayName: 铜魔石
+	DisplayName: 铜覆膜
 	Tooltip:
 		'''
 		暴击有几率释放闪电攻击敌人
@@ -146,7 +146,7 @@ CopperEnchant: {
 }
 
 CrimsonEnchant: {
-	DisplayName: 猩红魔石
+	DisplayName: 猩红覆膜
 	Tooltip:
 		'''
 		受到伤害后，若7秒内不再受击，则恢复此次受击受到伤害的一半
@@ -156,7 +156,7 @@ CrimsonEnchant: {
 }
 
 CrystalAssassinEnchant: {
-	DisplayName: 水晶刺客魔石
+	DisplayName: 水晶刺客覆膜
 	Tooltip:
 		'''
 		获得冲刺能力
@@ -168,7 +168,7 @@ CrystalAssassinEnchant: {
 }
 
 DarkArtistEnchant: {
-	DisplayName: 暗黑艺术家魔石
+	DisplayName: 暗黑艺术家覆膜
 	Tooltip:
 		'''
 		召唤一个爆炸烈焰召唤物，在玩家攻击时也会随之攻击
@@ -179,7 +179,7 @@ DarkArtistEnchant: {
 }
 
 EbonwoodEnchant: {
-	DisplayName: 乌木魔石
+	DisplayName: 乌木覆膜
 	Tooltip:
 		'''
 		你被一圈腐化光环环绕
@@ -190,7 +190,7 @@ EbonwoodEnchant: {
 }
 
 ForbiddenEnchant: {
-	DisplayName: 禁戒魔石
+	DisplayName: 禁戒覆膜
 	Tooltip:
 		'''
 		双击“下”键会在光标位置召唤远古风暴
@@ -202,7 +202,7 @@ ForbiddenEnchant: {
 }
 
 FossilEnchant: {
-	DisplayName: 化石魔石
+	DisplayName: 化石覆膜
 	Tooltip:
 		'''
 		受到致死伤害时会以50生命值重生，清除自身减益，并爆出几根骨头
@@ -213,7 +213,7 @@ FossilEnchant: {
 }
 
 FrostEnchant: {
-	DisplayName: 冰霜魔石
+	DisplayName: 冰霜覆膜
 	Tooltip:
 		'''
 		你的周围会出现冰锥
@@ -226,7 +226,7 @@ FrostEnchant: {
 }
 
 GladiatorEnchant: {
-	DisplayName: 角斗士魔石
+	DisplayName: 角斗士覆膜
 	Tooltip:
 		'''
 		长矛将倾泄在被攻击的敌人身上
@@ -239,7 +239,7 @@ GladiatorEnchant: {
 }
 
 GoldEnchant: {
-	DisplayName: 金魔石
+	DisplayName: 金覆膜
 	Tooltip:
 		'''
 		攻击会造成迈达斯减益
@@ -252,7 +252,7 @@ GoldEnchant: {
 }
 
 HallowEnchant: {
-	DisplayName: 神圣魔石
+	DisplayName: 神圣覆膜
 	Tooltip:
 		'''
 		治疗药水的治疗量增加40%，但是会随时间推移逐渐生效
@@ -262,7 +262,7 @@ HallowEnchant: {
 }
 
 HuntressEnchant: {
-	DisplayName: 女猎人魔石
+	DisplayName: 女猎人覆膜
 	Tooltip:
 		'''
 		攻击忽略6点敌怪防御力并造成3点额外伤害
@@ -275,7 +275,7 @@ HuntressEnchant: {
 }
 
 IronEnchant: {
-	DisplayName: 铁魔石
+	DisplayName: 铁覆膜
 	Tooltip:
 		'''
 		在物品栏中即可生效
@@ -288,7 +288,7 @@ IronEnchant: {
 }
 
 JungleEnchant: {
-	DisplayName: 丛林魔石
+	DisplayName: 丛林覆膜
 	Tooltip:
 		'''
 		使你获得孢子二段跳能力
@@ -298,7 +298,7 @@ JungleEnchant: {
 }
 
 LeadEnchant: {
-	DisplayName: 铅魔石
+	DisplayName: 铅覆膜
 	Tooltip:
 		'''
 		攻击有几率造成铅中毒减益
@@ -309,7 +309,7 @@ LeadEnchant: {
 }
 
 MeteorEnchant: {
-	DisplayName: 流星魔石
+	DisplayName: 流星覆膜
 	Tooltip:
 		'''
 		大幅增加移动速度和加速度并降低动量影响
@@ -320,7 +320,7 @@ MeteorEnchant: {
 }
 
 MinerEnchant: {
-	DisplayName: 矿工魔石
+	DisplayName: 矿工覆膜
 	Tooltip:
 		'''
 		增加50%挖掘速度
@@ -331,7 +331,7 @@ MinerEnchant: {
 }
 
 MoltenEnchant: {
-	DisplayName: 熔岩魔石
+	DisplayName: 熔岩覆膜
 	Tooltip:
 		'''
 		引燃你附近的敌人
@@ -341,7 +341,7 @@ MoltenEnchant: {
 }
 
 MonkEnchant: {
-	DisplayName: 武僧魔石
+	DisplayName: 武僧覆膜
 	Tooltip:
 		'''
 		使你获得冲刺能力
@@ -355,7 +355,7 @@ MonkEnchant: {
 }
 
 MythrilEnchant: {
-	DisplayName: 秘银魔石
+	DisplayName: 秘银覆膜
 	Tooltip:
 		'''
 		在一段时间不攻击后开始攻击会短暂地提高武器使用速度
@@ -365,7 +365,7 @@ MythrilEnchant: {
 }
 
 NebulaEnchant: {
-	DisplayName: 星云魔石
+	DisplayName: 星云覆膜
 	Tooltip:
 		'''
 		对敌人造成伤害时有几率生成强化焰
@@ -375,7 +375,7 @@ NebulaEnchant: {
 }
 
 NecroEnchant: {
-	DisplayName: 死灵魔石
+	DisplayName: 死灵覆膜
 	Tooltip:
 		'''
 		击杀敌人时有几率爆出一个骨堆
@@ -387,7 +387,7 @@ NecroEnchant: {
 }
 
 NinjaEnchant: {
-	DisplayName: 忍者魔石
+	DisplayName: 忍者覆膜
 	Tooltip:
 		'''
 		弹幕会根据其速度获得增伤，最高可达20%
@@ -397,20 +397,20 @@ NinjaEnchant: {
 }
 
 ObsidianEnchant: {
-	DisplayName: 黑曜石魔石
+	DisplayName: 黑曜石覆膜
 	Tooltip:
 		'''
 		免疫火块与熔岩
 		你可以在熔岩中正常移动和游泳
 		在熔岩中会获得“熔岩之润”增益
 		拥有该增益时，你的攻击会引发爆炸并施加鞭炮效果，且会附带火球
-		获得灰烬木魔石的全部效果
+		获得灰烬木覆膜的全部效果
 		“大地在呼唤”
 		'''
 }
 
 OrichalcumEnchant: {
-	DisplayName: 山铜魔石
+	DisplayName: 山铜覆膜
 	Tooltip:
 		'''
 		花瓣将落到你攻击的敌人的身上，造成额外伤害和山铜中毒减益
@@ -420,7 +420,7 @@ OrichalcumEnchant: {
 }
 
 PalladiumEnchant: {
-	DisplayName: 钯金魔石
+	DisplayName: 钯金覆膜
 	Tooltip:
 		'''
 		击中敌人后暂时增加你的生命恢复速度
@@ -430,7 +430,7 @@ PalladiumEnchant: {
 }
 
 PalmWoodEnchant: {
-	DisplayName: 棕榈木魔石
+	DisplayName: 棕榈木覆膜
 	Tooltip:
 		'''
 		双击“下”键在鼠标处召唤一个会向敌人扔橡实的棕榈树哨兵
@@ -439,7 +439,7 @@ PalmWoodEnchant: {
 }
 
 PearlwoodEnchant: {
-	DisplayName: 珍珠木魔石
+	DisplayName: 珍珠木覆膜
 	Tooltip:
 		'''
 		攻击有额外一次暴击机会
@@ -449,7 +449,7 @@ PearlwoodEnchant: {
 }
 
 PlatinumEnchant: {
-	DisplayName: 铂金魔石
+	DisplayName: 铂金覆膜
 	Tooltip:
 		'''
 		敌人死亡时有20%的几率获得五倍的战利品
@@ -458,7 +458,7 @@ PlatinumEnchant: {
 }
 
 PumpkinEnchant: {
-	DisplayName: 南瓜魔石
+	DisplayName: 南瓜覆膜
 	Tooltip:
 		'''
 		你在移动时会种下南瓜
@@ -469,7 +469,7 @@ PumpkinEnchant: {
 }
 
 RainEnchant: {
-	DisplayName: 雨云魔石
+	DisplayName: 雨云覆膜
 	Tooltip:
 		'''
 		召唤一把可反射上方射弹的雨伞
@@ -482,7 +482,7 @@ RainEnchant: {
 }
 
 RedRidingEnchant: {
-	DisplayName: 红色骑术魔石
+	DisplayName: 红色骑术覆膜
 	Tooltip:
 		'''
 		攻击忽略10点敌怪防御力并额外造成5点伤害
@@ -496,7 +496,7 @@ RedRidingEnchant: {
 }
 
 RichMahoganyEnchant: {
-	DisplayName: 红木魔石
+	DisplayName: 红木覆膜
 	Tooltip:
 		'''
 		所有钩爪的牵引速度×1.5，抛出速度×2，回收速度×3
@@ -506,7 +506,7 @@ RichMahoganyEnchant: {
 }
 
 ShadewoodEnchant: {
-	DisplayName: 阴影木魔石
+	DisplayName: 阴影木覆膜
 	Tooltip:
 		'''
 		召唤一圈鲜血光环
@@ -516,7 +516,7 @@ ShadewoodEnchant: {
 }
 
 ShadowEnchant: {
-	DisplayName: 暗影魔石
+	DisplayName: 暗影覆膜
 	Tooltip:
 		'''
 		两颗暗影珠围绕着你旋转
@@ -526,7 +526,7 @@ ShadowEnchant: {
 }
 
 ShinobiEnchant: {
-	DisplayName: 渗透忍者魔石
+	DisplayName: 渗透忍者覆膜
 	Tooltip:
 		'''
 		使你获得冲刺能力
@@ -541,7 +541,7 @@ ShinobiEnchant: {
 }
 
 ShroomiteEnchant: {
-	DisplayName: 蘑菇魔石
+	DisplayName: 蘑菇覆膜
 	Tooltip:
 		'''
 		所有攻击都会留下蘑菇尾迹
@@ -552,7 +552,7 @@ ShroomiteEnchant: {
 }
 
 SilverEnchant: {
-	DisplayName: 银魔石
+	DisplayName: 银覆膜
 	Tooltip:
 		'''
 		右键进行盾牌格挡
@@ -564,7 +564,7 @@ SilverEnchant: {
 }
 
 SnowEnchant: {
-	DisplayName: 冰雪魔石
+	DisplayName: 冰雪覆膜
 	Tooltip:
 		'''
 		你的攻击造成短暂的霜冻减益
@@ -575,18 +575,18 @@ SnowEnchant: {
 }
 
 SolarEnchant: {
-	DisplayName: 耀斑魔石
+	DisplayName: 耀斑覆膜
 	Tooltip:
 		'''
 		召唤日耀护盾，让你能冲撞敌人
 		伤害减免会降低15%，但被击中时日耀护盾不会消耗
 		攻击有几率造成太阳耀斑减益
-		“烫手魔石”
+		“烫手覆膜”
 		'''
 }
 
 SpectreEnchant: {
-	DisplayName: 幽魂魔石
+	DisplayName: 幽魂覆膜
 	Tooltip:
 		'''
 		对敌人造成伤害时有几率生成幽灵珠
@@ -596,7 +596,7 @@ SpectreEnchant: {
 }
 
 SpiderEnchant: {
-	DisplayName: 蜘蛛魔石
+	DisplayName: 蜘蛛覆膜
 	Tooltip:
 		'''
 		你的召唤物和哨兵可以造成暴击
@@ -606,7 +606,7 @@ SpiderEnchant: {
 }
 
 SpookyEnchant: {
-	DisplayName: 阴森魔石
+	DisplayName: 阴森覆膜
 	Tooltip:
 		'''
 		你的召唤物能进行额外的镰刀攻击
@@ -615,7 +615,7 @@ SpookyEnchant: {
 }
 
 SquireEnchant: {
-	DisplayName: 侍卫魔石
+	DisplayName: 侍卫覆膜
 	Tooltip:
 		'''
 		增加坐骑的最大速度、加速度与跳跃高度
@@ -627,7 +627,7 @@ SquireEnchant: {
 }
 
 StardustEnchant: {
-	DisplayName: 星尘魔石
+	DisplayName: 星尘覆膜
 	Tooltip:
 		'''
 		星尘守卫将保护你不受附近敌人的伤害
@@ -639,7 +639,7 @@ StardustEnchant: {
 }
 
 TikiEnchant: {
-	DisplayName: 提基魔石
+	DisplayName: 提基覆膜
 	Tooltip:
 		'''
 		鞭打你的召唤物可以让它们更勤奋
@@ -648,7 +648,7 @@ TikiEnchant: {
 }
 
 TinEnchant: {
-	DisplayName: 锡魔石
+	DisplayName: 锡覆膜
 	Tooltip:
 		'''
 		将你的基础暴击率设为5%
@@ -661,7 +661,7 @@ TinEnchant: {
 }
 
 TitaniumEnchant: {
-	DisplayName: 钛金魔石
+	DisplayName: 钛金覆膜
 	Tooltip:
 		'''
 		攻击生成钛金碎片防御屏障，最多有20个碎片
@@ -672,7 +672,7 @@ TitaniumEnchant: {
 }
 
 TungstenEnchant: {
-	DisplayName: 钨魔石
+	DisplayName: 钨覆膜
 	Tooltip:
 		'''
 		近战武器大小增加100%
@@ -683,7 +683,7 @@ TungstenEnchant: {
 }
 
 TurtleEnchant: {
-	DisplayName: 乌龟魔石
+	DisplayName: 乌龟覆膜
 	Tooltip:
 		'''
 		反弹100%接触伤害
@@ -699,7 +699,7 @@ TurtleEnchant: {
 }
 
 ValhallaKnightEnchant: {
-	DisplayName: 英灵殿骑士魔石
+	DisplayName: 英灵殿骑士覆膜
 	Tooltip:
 		'''
 		提升坐骑加速度、最高速度和跳跃高度
@@ -711,7 +711,7 @@ ValhallaKnightEnchant: {
 }
 
 VortexEnchant: {
-	DisplayName: 星旋魔石
+	DisplayName: 星旋覆膜
 	Tooltip:
 		'''
 		双击“下”键切换至隐形模式，减少敌人以你为目标的几率，但大幅降低移动速度
@@ -722,16 +722,16 @@ VortexEnchant: {
 }
 
 WizardEnchant: {
-	DisplayName: 巫师魔石
+	DisplayName: 巫师覆膜
 	Tooltip:
 		'''
-		正下方饰品栏位中的魔石会被强化至“力”等级饰品的效果
+		正下方饰品栏位中的覆膜会被强化至“力”等级饰品的效果
 		“我是啥？”
 		'''
 }
 
 WoodEnchant: {
-	DisplayName: 木魔石
+	DisplayName: 木覆膜
 	Tooltip:
 		'''
 		怪物图鉴和旗帜解锁速度翻倍
@@ -1825,7 +1825,7 @@ TerrariaSoul: {
 		被击中后会降低暴击率、喷出血液并反弹伤害
 		弹幕有几率分裂或爆裂成碎片并生成星星，增加物品和弹幕的尺寸，扩大你的物品拾取范围
 		引燃你附近的敌人，你的身后会留下一条火痕，跳跃会释放孢子爆炸
-		给予你猩红魔石的治愈效果，免疫岩浆、火和摔落伤害并使药草收获翻倍
+		给予你猩红覆膜的治愈效果，免疫岩浆、火和摔落伤害并使药草收获翻倍
 		普通蜜蜂有50%几率变成大蜜蜂，你的召唤物和哨兵现在可以造成暴击且有15%基础暴击率并增加30点护甲穿透，敌人死亡时有20%几率掉落更多战利品
 		增加小动物的防御力，小动物死亡后会释放它们的灵魂来帮助你，鞭打你的召唤物可以让它们更勤奋
 		强化钩爪的效果，钩爪会发射追踪弹幕，大幅强化旧日军团的塔防哨兵
@@ -2111,7 +2111,7 @@ MutantsDiscountCard: {
 
 MutantsPact: {
 	DisplayName: 突变体契约
-	Tooltip: 永久增加一个仅能容纳魔石，力或是魂的饰品栏。
+	Tooltip: 永久增加一个仅能容纳覆膜，力或是魂的饰品栏。
 }
 
 OrdinaryCarrot: {
@@ -3089,7 +3089,7 @@ NekomiLeggings: {
 }
 
 AnglerEnchant: {
-	DisplayName: 渔夫魔石
+	DisplayName: 渔夫覆膜
 	Tooltip:
 		'''
 		增加渔力
@@ -3359,7 +3359,7 @@ OncomingMutantItem: {
 }
 
 Extra: {
-	StarlightTungsten: 无法被钨魔石强化
+	StarlightTungsten: 无法被钨覆膜强化
 	DefensePrefixMaxLife: +{0} 最大生命值
 	EternityItem: 永恒
 	DisabledEffects: 有效果被饰品效果配置禁用
