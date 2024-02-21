@@ -331,12 +331,12 @@ DeviBoss: {
 ShadowOrbNPC.DisplayName: 暗影珠
 
 LifeChallenger: {
-	DisplayName: 飘渺游光
+	DisplayName: 躺飞
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.LifeChallenger.DisplayName}"
 		SpawnInfo: 白天在神圣之地使用[i:FargowiltasSouls/FragilePixieLamp]召唤。
-		DespawnMessage: 飘渺游光随辉光消逝……
+		DespawnMessage: 躺飞随辉光消逝……
 	}
 
 	FatherOfLies: 你来到这里真是个致命错误。

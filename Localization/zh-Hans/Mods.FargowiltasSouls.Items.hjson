@@ -3100,7 +3100,7 @@ AnglerEnchant: {
 }
 
 LifelightBag: {
-	DisplayName: 宝藏袋（飘渺游光）
+	DisplayName: 宝藏袋（躺飞）
 	Tooltip: 右键点击可打开
 }
 
@@ -3149,12 +3149,12 @@ StoriaMusicBox: {
 }
 
 LifelightRelic: {
-	DisplayName: 飘渺游光圣物
+	DisplayName: 躺飞圣物
 	Tooltip: ""
 }
 
 LifelightTrophy: {
-	DisplayName: 飘渺游光纪念章
+	DisplayName: 躺飞纪念章
 	Tooltip: ""
 }
 
