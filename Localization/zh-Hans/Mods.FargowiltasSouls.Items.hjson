@@ -506,7 +506,7 @@ RichMahoganyEnchant: {
 }
 
 ShadewoodEnchant: {
-	DisplayName: 阴影木覆膜
+	DisplayName: 着色器木覆膜
 	Tooltip:
 		'''
 		召唤一圈鲜血光环
