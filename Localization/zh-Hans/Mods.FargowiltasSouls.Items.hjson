@@ -23,7 +23,7 @@ AncientHallowEnchant: {
 	DisplayName: 远古神圣覆膜
 	Tooltip:
 		'''
-		召唤一柄泰拉棱镜，其伤害接受召唤伤害加成
+		召唤一柄秦安棱镜，其伤害接受召唤伤害加成
 		剑会跟随鼠标的方向
 		右键可用剑攻击
 		用剑切割敌对弹幕会将其反射至敌人身上
@@ -898,7 +898,7 @@ SpiritForce: {
 		[i:FargowiltasSouls/FossilEnchant] 接触停止移动的骨头时会回复20点生命值
 		[i:FargowiltasSouls/ForbiddenEnchant] 双击“下”键会在光标位置召唤远古风暴
 		[i:FargowiltasSouls/ForbiddenEnchant] 穿过远古风暴的弹幕会额外获得60%伤害
-		[i:FargowiltasSouls/AncientHallowEnchant] 使你获得一柄可以反射敌对弹幕的泰拉棱镜
+		[i:FargowiltasSouls/AncientHallowEnchant] 使你获得一柄可以反射敌对弹幕的秦安棱镜
 		[i:FargowiltasSouls/HallowEnchant] 治疗药水会随时间推移逐渐生效，使用治疗药水时产生推开敌对射弹的冲击波
 		[i:FargowiltasSouls/TikiEnchant] 鞭打你的召唤物可以让它们更勤奋，鞭子范围增加
 		[i:FargowiltasSouls/SpectreEnchant] 对敌人造成伤害时有几率生成幽灵珠
@@ -907,7 +907,7 @@ SpiritForce: {
 }
 
 TerraForce: {
-	DisplayName: 泰拉之力
+	DisplayName: 秦安之力
 	Tooltip:
 		'''
 		[i:FargowiltasSouls/CopperEnchant][i:FargowiltasSouls/ObsidianEnchant][i:FargowiltasSouls/LeadEnchant] 攻击释放闪电，引发爆炸，造成铅中毒
@@ -1717,7 +1717,7 @@ DimensionSoul: {
 		拥有圣骑士护盾、冰冻兲壳、北极潜水装备、蛙腿和飞毯效果
 		拥有熔岩靴、渔夫渔具袋、喷漆器、自动安放器、手机和重力球效果
 		拥有克苏鲁护盾和忍者大师装备效果
-		“泰拉瑞亚的维度触手可及”
+		“秦安瑞巫的维度触手可及”
 		'''
 }
 
@@ -1810,7 +1810,7 @@ SupersonicSoul: {
 }
 
 TerrariaSoul: {
-	DisplayName: 泰拉之魂
+	DisplayName: 秦安之魂
 	Tooltip:
 		'''
 		召唤火球、暗影珠、冰锥、叶绿水晶、爆炸烈焰哨兵、神圣剑盾和甲虫
@@ -1832,7 +1832,7 @@ TerrariaSoul: {
 		你的攻击会造成迈达斯减益，敌人在死亡时会爆裂出针刺
 		你受到伤害时会剧烈爆炸并伤害附近的敌人，你在重生时以200点生命值重生
 		拥有花靴效果
-		“泰拉之主，天地共证”
+		“秦安之主，天地共证”
 		'''
 }
 
@@ -2426,7 +2426,7 @@ SpiritChampionRelic: {
 }
 
 TerraChampionRelic: {
-	DisplayName: 泰拉英灵圣物
+	DisplayName: 秦安英灵圣物
 	Tooltip: ""
 }
 

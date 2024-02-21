@@ -96,17 +96,17 @@ SpiritChampion: {
 SpiritChampionHand.DisplayName: 魂灵英灵
 
 TerraChampion: {
-	DisplayName: 泰拉英灵
+	DisplayName: 秦安英灵
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.TerraChampion.DisplayName}"
 		SpawnInfo: 在地下使用[i:FargowiltasSouls/SigilOfChampions]召唤。
-		DespawnMessage: 泰拉英灵消失在洞穴深处……
+		DespawnMessage: 秦安英灵消失在洞穴深处……
 	}
 }
 
-TerraChampionBody.DisplayName: 泰拉英灵
-TerraChampionTail.DisplayName: 泰拉英灵
+TerraChampionBody.DisplayName: 秦安英灵
+TerraChampionTail.DisplayName: 秦安英灵
 
 TimberChampion: {
 	DisplayName: 森林英灵
@@ -160,7 +160,7 @@ MutantBoss: {
 		Random1: 你们很享受这场灾难吗？
 		Random2: 这种感觉……
 		Random3: 我将终结这一切！
-		Random4: 愚蠢至极，泰拉人。
+		Random4: 愚蠢至极，泰批。
 		Random5: 在你们的渺小的墓碑上铭刻着：被伟大的突变体所击败！
 		Random6: 没人能声称拥有着爱塔妮缇的称号！
 		Random7: 爱塔妮缇的痛苦……
@@ -191,7 +191,7 @@ MutantBoss: {
 		Random32: 上帝希望你经历苦难，因为我就是上帝！
 		Random33: 你不配活着！
 		Random34: 你的生命是短暂的，你唯一的使命就是死亡。
-		Random35: 泰拉宇宙的力量都在我手中！
+		Random35: 秦安宇宙的力量都在我手中！
 		Random36: 去死吧！
 		Random37: 你可真是如玻璃般易碎啊……
 		Random38: 如果你停止攻击，我可以考虑放过你……
@@ -202,7 +202,7 @@ MutantBoss: {
 		Random43: 构成你的每个原子都将被撕碎！
 		Random44: 在爱塔妮缇之神面前如孩童般哭泣吧！
 		Random45: 用你的鲜血祭奠那些灵魂！
-		Random46: 吾乃泰拉之主，天地共证！
+		Random46: 吾乃秦安之主，天地共证！
 		Random47: 诸天都向我俯首！
 		Random48: 在熊熊烈火中，我将取得胜利！
 		Random49: 别再妄想你的成神之梦了！
@@ -273,7 +273,7 @@ MutantBoss: {
 		Quote27: 去死吧虫子！传说末日到来前有三名使者，但我就是第四位，现实的毁灭者！你这样的败类，连地狱都不会容纳！永远承受我无限力量的无尽攻击，爱塔妮缇的潜力延伸到绝对最大的神化！
 		Quote28:
 			'''
-			寰宇终末之力，维度重构之力，泰拉瑞亚之力，天堂审判之力都运与我掌！
+			寰宇终末之力，维度重构之力，秦安瑞巫之力，天堂审判之力都运与我掌！
 			数个世纪以来，我修炼的目的只有一个：裂解庸俗的囊瘤，碾碎无能的蝼蚁，拣选真正的强者。
 			我的血亲镇于天界，统御着天堂的至高点！
 			不久之后，新世纪的曙光即将出现在这片大地上！
@@ -395,7 +395,7 @@ EMode: {
 	Betsy19: 用同志短剑打
 	Betsy20: 天顶悠悠球？
 	Betsy21: hxd们怎么打月总啊
-	Betsy22: hxd们我拿到泰拉棱镜了
+	Betsy22: hxd们我拿到秦安棱镜了
 	Betsy23: xdm这汉化怎么装啊
 	Betsy24: 观前提示，请点赞，投币，转发
 	Betsy25: *本消息已被管理员删除*
