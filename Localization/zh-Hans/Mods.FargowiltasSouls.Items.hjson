@@ -1077,7 +1077,7 @@ ChaliceoftheMoon: {
 		'''
 		[i:FargowiltasSouls/ChaliceoftheMoon]免疫蜂群、萎缩、卡壳、魔力逆流和社恐减益
 		免疫[i:FargowiltasSouls/MagicalBulb]毒液、常春藤毒素、[i:FargowiltasSouls/LihzahrdTreasureBox]燃烧、导火索、下陷和[i:FargowiltasSouls/CelestialRune]死亡标记减益
-		[i:FargowiltasSouls/MagicalBulb]按下“魔法净化”键治愈你
+		[i:FargowiltasSouls/MagicalBulb]按下“魔法灯泡”键治愈你
 		[i:FargowiltasSouls/MagicalBulb]根据你受到的光照增加生命恢复速度
 		[i:FargowiltasSouls/LihzahrdTreasureBox]在空中双击“下”键快速下落
 		在一定高度使用快速下落，撞击地面时会产生猛烈的火焰喷发
@@ -1308,11 +1308,11 @@ LumpOfFlesh: {
 }
 
 MagicalBulb: {
-	DisplayName: 魔法球茎
+	DisplayName: 魔法灯泡
 	Tooltip:
 		'''
 		免疫毒液、常春藤毒素和蜂群减益
-		按下“魔法净化”键治愈你身上绝大多数的减益，此效果有一定的冷却时间
+		按下“魔法灯泡”键治愈你身上绝大多数的减益，此效果有一定的冷却时间
 		不攻击时，冷却速度更快
 		根据你受到的光照增加生命恢复速度
 		吸引一株传奇植物的幼株，其会在战斗中茁壮成长
