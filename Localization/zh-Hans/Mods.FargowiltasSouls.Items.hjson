@@ -1479,9 +1479,15 @@ ReinforcedPlating: {
 }
 
 SandsofTime: {
-	DisplayName: 时之沙
+	DisplayName: 观者の时之沙
 	Tooltip:
 		'''
+			 [c/EFC848:保留]
+		  造成20点伤害
+		每当这张牌被[c/EFC848:保留]
+		时，将其在本场战斗
+		  的耗能减少1
+		
 		放在物品栏中即可生效
 		免疫强风减益和仙人掌伤害
 		没有Boss在场时重生速度加倍
