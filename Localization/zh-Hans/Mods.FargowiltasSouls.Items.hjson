@@ -1258,7 +1258,7 @@ HeartoftheMasochist: {
 		[i:FargowiltasSouls/MutantAntibodies]骑乘猪龙鱼坐骑时获得潮湿状态效果
 		[i:FargowiltasSouls/MutantAntibodies]浸在液体中重置飞行时间，增加最大飞行时间并增强移动力
 		[i:FargowiltasSouls/IceQueensCrown]擦弹可以积攒一颗能冻住几乎所有敌怪和射弹的炸弹
-		[i:FargowiltasSouls/PrecisionSeal]缩小你对于敌对弹幕的碰撞判定，按下“精确模式”键禁用冲刺和二段跳
+		[i:FargowiltasSouls/PrecisionSeal]缩小你对于敌对弹幕的碰撞判定，按下“车万模式”键禁用冲刺和二段跳
 		[i:FargowiltasSouls/SaucerControlConsole]召唤友善的迷你飞碟，击中敌人时可以减缓敌人的速度
 		[i:FargowiltasSouls/GalacticGlobe]可以控制重力，增加100%飞行时间，召唤友善的克苏鲁真眼
 		“它还在跳动，很暖和，但没人想要”
@@ -1397,12 +1397,12 @@ NymphsPerfume: {
 }
 
 PrecisionSeal: {
-	DisplayName: 玲珑圣印
+	DisplayName: 车万圣印
 	Tooltip:
 		'''
 		免疫惩戒减益
 		缩小你对于敌对弹幕的碰撞判定
-		按下“精确模式”键后开启精确模式，禁用冲刺和二段跳
+		按下“车万模式”键后开启车万模式，禁用冲刺和二段跳
 		在模组配置中可以把触发方式在“按下”和“按住”中切换
 		即使不显示，你的碰撞判定也会缩小
 		“躲得那么近，你都能舔到那个弹幕了”
@@ -1772,7 +1772,7 @@ MasochistSoul: {
 		大多敌人在死亡时会掉落随机的药水，大幅改善重铸结果，你会以满生命值重生
 		重生速度翻倍，增强夜视效果，受到伤害时进行超级充能并释放各种攻击
 		阻止Boss自然生成，增加刷怪率，敌人死亡后会掉落更多战利品，你在受到伤害时有几率发出吱吱声，并使这次受到的伤害降至1点
-		缩小你对于敌对弹幕的碰撞判定，按下“精确模式”键禁用冲刺和二段跳
+		缩小你对于敌对弹幕的碰撞判定，按下“车万模式”键禁用冲刺和二段跳
 		右键以及其严格的时机格挡攻击
 		使用以传送到你上一次死亡的地点
 		召唤所有永恒模式Boss的援助到你身边
