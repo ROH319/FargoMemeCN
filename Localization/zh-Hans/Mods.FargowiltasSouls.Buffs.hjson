@@ -115,7 +115,7 @@ BetsyDashBuff: {
 
 AbomFangBuff: {
 	DisplayName: 永恒群冠毒牙
-	Description: 永恒模式的力量压迫着你
+	Description: 爱塔妮缇模式的力量压迫着你
 }
 
 AbomPresenceBuff: {
@@ -145,7 +145,7 @@ GrabbedBuff: {
 
 MutantFangBuff: {
 	DisplayName: 突变毒牙
-	Description: 永恒模式的力量压迫着你
+	Description: 爱塔妮缇模式的力量压迫着你
 }
 
 MutantPresenceBuff: {
@@ -414,8 +414,8 @@ RushJobBuff: {
 }
 
 SadismBuff: {
-	DisplayName: 永恒
-	Description: 永恒模式的力量与你同在
+	DisplayName: 爱塔妮缇
+	Description: 爱塔妮缇模式的力量与你同在
 }
 
 ShadowflameBuff: {
@@ -520,7 +520,7 @@ SkeletronArmsBuff: {
 
 SouloftheMasochistBuff: {
 	DisplayName: 大师之魂
-	Description: 永恒模式的力量与你同在
+	Description: 爱塔妮缇模式的力量与你同在
 }
 
 TrueEyesBuff: {

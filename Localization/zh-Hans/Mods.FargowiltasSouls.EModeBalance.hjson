@@ -1,6 +1,6 @@
-Nerf: "[c/ff0000:永恒模式：]"
-Buff: "[c/00ff00:永恒模式：]"
-Neutral: "[c/ffff00:永恒模式：]"
+Nerf: "[c/ff0000:爱塔妮缇模式：]"
+Buff: "[c/00ff00:爱塔妮缇模式：]"
+Neutral: "[c/ffff00:爱塔妮缇模式：]"
 Damage: 伤害降低{0}%
 DamagePositive: 伤害提升{0}%
 Speed: 攻击速度降低{0}%
@@ -28,8 +28,8 @@ DefensePrefix: 词缀效果调整：+5最大生命值，但困难模式前从词
 ManaPots: 魔力疾病期间无法使用，但是恢复速度提升50%
 MinionStack: 同时召唤超过3个相同召唤物时，它们的伤害会降低（超过12个后不再降低）
 SummonMulticlass: 当你使用其他职业的武器攻击时，召唤伤害降低（在撒旦军队中除外）
-ShadowDodge: 永恒模式：闪避会降低你的攻击速度
-IceBarrier: 永恒模式：你造成的伤害减少10%
+ShadowDodge: 爱塔妮缇模式：闪避会降低你的攻击速度
+IceBarrier: 爱塔妮缇模式：你造成的伤害减少10%
 SpearRework: 重做长矛挥舞动画
 PalladiumPikeRework: 击中敌人后大幅增加生命恢复速度
 CobaltNaginataRework: 击中敌人会造成小范围爆炸

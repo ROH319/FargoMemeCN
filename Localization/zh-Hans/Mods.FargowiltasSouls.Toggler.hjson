@@ -79,7 +79,7 @@ SolarFlareEffect: 耀斑 太阳耀斑减益
 StardustMinionEffect: 星尘 星尘守卫
 VortexStealthEffect: 星旋 潜行
 VortexVortexEffect: 星旋 星旋旋涡
-DeviEnergyHeader: 永恒模式饰品
+DeviEnergyHeader: 爱塔妮缇模式饰品
 DeerSinewEffect: 鹿筋冲刺
 ZephyrJump: 风神跳跃
 MasoAeolusFlower: 花靴
@@ -178,7 +178,7 @@ TrawlerSporeSac: 孢子囊
 TrawlerJump: 捕鱼之魂跳跃
 TrawlerGel: 挥发明胶
 EternityHeader: "{$Mods.FargowiltasSouls.Items.EternitySoul.DisplayName}"
-EternityTin: 永恒之魂属性叠加
+EternityTin: 爱塔妮缇之魂属性叠加
 // the pets are no longer existing in game
 PetHeader: 宠物
 PetDinoConfig: 恐龙宝宝

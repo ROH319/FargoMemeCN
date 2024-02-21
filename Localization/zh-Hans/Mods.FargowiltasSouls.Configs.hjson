@@ -2,7 +2,7 @@ SoulConfig: {
 	DisplayName: Fargo魂配置
 
 	Headers: {
-		Maso: 永恒模式
+		Maso: 爱塔妮缇模式
 		Patreon: "[i:FargowiltasSouls/RoombaPet] [c/ffffff:捐赠者物品]"
 	}
 
@@ -43,16 +43,16 @@ SoulConfig: {
 
 	PreBossNightGlow: {
 		Label: Boss前敌怪发光
-		Tooltip: 永恒模式中，如果你没有击败任何Boss，敌怪会在夜晚发光
+		Tooltip: 爱塔妮缇模式中，如果你没有击败任何Boss，敌怪会在夜晚发光
 	}
 
 	OncomingMutantX: {
-		Label: 永恒模式图标水平位置
+		Label: 爱塔妮缇模式图标水平位置
 		Tooltip: ""
 	}
 
 	OncomingMutantY: {
-		Label: 永恒模式图标竖直位置
+		Label: 爱塔妮缇模式图标竖直位置
 		Tooltip: ""
 	}
 
