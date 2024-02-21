@@ -1,0 +1,7 @@
+displayName = Fargo梗体汉化
+author = ROH
+version = 0.1
+modReferences = Fargowiltas
+weakReferences = FargowiltasSouls
+translationMod = true
+side = client
