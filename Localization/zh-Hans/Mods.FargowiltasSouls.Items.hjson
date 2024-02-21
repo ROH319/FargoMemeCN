@@ -482,7 +482,7 @@ RainEnchant: {
 }
 
 RedRidingEnchant: {
-	DisplayName: 红色骑术覆膜
+	DisplayName: 小红帽覆膜
 	Tooltip:
 		'''
 		攻击忽略10点敌怪防御力并额外造成5点伤害
