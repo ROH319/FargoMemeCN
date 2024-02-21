@@ -369,7 +369,7 @@ OceanicMaulBuff: {
 
 OceanicSealBuff: {
 	DisplayName: 海洋印记
-	Description: 无法闪避，无法吸血，无法使用超音速之魂快速移动，无法逃脱
+	Description: 无法闪避，无法吸血，无法使用超级索尼克之魂快速移动，无法逃脱
 }
 
 OiledBuff: {
