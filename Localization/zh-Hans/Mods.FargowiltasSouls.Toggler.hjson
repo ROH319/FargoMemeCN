@@ -39,7 +39,7 @@ BeetleEffect: 甲虫 相关效果
 CactusEffect: 仙人掌 针刺
 PumpkinEffect: 南瓜 种植南瓜
 SpiderEffect: 蜘蛛 召唤物暴击
-TurtleEffect: 乌龟 缩壳减伤
+TurtleEffect: 兲 缩壳减伤
 NatureHeader: "{$Mods.FargowiltasSouls.Items.NatureForce.DisplayName}"
 ChloroMinion: 叶绿 水晶
 CrimsonEffect: 猩红 治愈
@@ -156,7 +156,7 @@ DefenseBrainEffect: 混乱之脑受伤效果
 DefenseBeeEffect: 受伤产生蜜蜂
 FleshKnuckleEffect: 血肉指虎仇恨
 PaladinShieldEffect: 圣骑士护盾
-FrozenTurtleEffect: 冰冻海龟壳
+FrozenTurtleEffect: 冰冻兲壳
 ShimmerImmunityEffect: 免疫微光闪烁
 FlightMasteryHeader: "{$Mods.FargowiltasSouls.Items.FlightMasterySoul.DisplayName}"
 FlightMasteryInsignia: 翱翔徽章加速
