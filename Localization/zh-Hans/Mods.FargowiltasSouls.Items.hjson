@@ -891,7 +891,7 @@ ShadowForce: {
 }
 
 SpiritForce: {
-	DisplayName: 心灵之力
+	DisplayName: 魂灵之力
 	Tooltip:
 		'''
 		[i:FargowiltasSouls/FossilEnchant] 受到致死伤害时会以200生命值重生，清除自身减益，并爆出几根骨头
@@ -2421,7 +2421,7 @@ ShadowChampionRelic: {
 }
 
 SpiritChampionRelic: {
-	DisplayName: 心灵英灵圣物
+	DisplayName: 魂灵英灵圣物
 	Tooltip: ""
 }
 

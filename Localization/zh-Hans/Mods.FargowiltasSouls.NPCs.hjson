@@ -84,16 +84,16 @@ ShadowChampion: {
 ShadowOrb.DisplayName: 暗影珠
 
 SpiritChampion: {
-	DisplayName: 心灵英灵
+	DisplayName: 魂灵英灵
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.SpiritChampion.DisplayName}"
 		SpawnInfo: 在地下沙漠使用[i:FargowiltasSouls/SigilOfChampions]召唤。
-		DespawnMessage: 心灵英灵消失在沙漠深处……
+		DespawnMessage: 魂灵英灵消失在沙漠深处……
 	}
 }
 
-SpiritChampionHand.DisplayName: 心灵英灵
+SpiritChampionHand.DisplayName: 魂灵英灵
 
 TerraChampion: {
 	DisplayName: 泰拉英灵

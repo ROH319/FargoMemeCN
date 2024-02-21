@@ -170,10 +170,10 @@ ShadowDeathraySmall.DisplayName: 暗影死亡射线
 ShadowGuardian.DisplayName: 地牢守卫
 SpiritCrossBone.DisplayName: 交叉骨头
 SpiritCrossBoneReverse.DisplayName: 交叉骨头
-SpiritHand.DisplayName: 心灵英灵之手
+SpiritHand.DisplayName: 魂灵英灵之手
 SpiritHeal.DisplayName: 幽魂珠
 SpiritSpirit.DisplayName: 幽魂珠
-SpiritSword.DisplayName: 心灵断钢剑
+SpiritSword.DisplayName: 魂灵断钢剑
 TerraFireball.DisplayName: 火球
 TerraLightningOrb.DisplayName: 闪电珠
 TerraLightningOrb2.DisplayName: 闪电珠
@@ -634,8 +634,8 @@ EnchantedLifebladeProjectile.DisplayName: 附魔蕴生之剑
 LightslingerBomb.DisplayName: 光之炸弹
 LightslingerBombshot.DisplayName: 曙光子弹
 LightslingerShot.DisplayName: 曙光子弹
-SpiritArrow.DisplayName: 心灵之箭
-SpiritArrowFlame.DisplayName: 心灵焰火
+SpiritArrow.DisplayName: 魂灵之箭
+SpiritArrowFlame.DisplayName: 魂灵焰火
 CirnoBomb.DisplayName: 琪露诺炸弹
 RetinazerDeathray.DisplayName: 烈焰死亡射线
 MimicDagger.DisplayName: 魔法飞刀
