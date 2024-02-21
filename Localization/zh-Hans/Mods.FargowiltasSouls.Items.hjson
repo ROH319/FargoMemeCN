@@ -2220,7 +2220,7 @@ MutantsFury: {
 }
 
 TopHatSquirrelCaught: {
-	DisplayName: 高顶礼帽松鼠
+	DisplayName: Furgo
 	Tooltip: ""
 }
 
@@ -2486,7 +2486,7 @@ ScremPainting: {
 }
 
 TophatSquirrelBanner: {
-	DisplayName: 高顶礼帽松鼠旗
+	DisplayName: Furgo旗
 	Tooltip: ""
 }
 
@@ -2765,7 +2765,7 @@ OvergrownKey: {
 }
 
 TophatSquirrelWeapon: {
-	DisplayName: 高顶礼帽松鼠
+	DisplayName: Furgo
 	Tooltip: “谁能知道，这只松鼠竟然有着非凡的宇宙力量呢？”
 }
 

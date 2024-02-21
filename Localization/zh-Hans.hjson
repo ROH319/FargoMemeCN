@@ -2785,7 +2785,7 @@ Mods: {
 					Normal3: *嘎吱嘎吱*
 				}
 
-				Census.SpawnCondition: 松鼠来到过城镇，或未加载Fargo魂石时击败过史莱姆王，或加载Fargo魂石时任意玩家背包中有高顶礼帽松鼠。
+				Census.SpawnCondition: 松鼠来到过城镇，或未加载Fargo魂石时击败过史莱姆王，或加载Fargo魂石时任意玩家背包中有Furgo。
 			}
 
 			SuperDummy.DisplayName: 超级假人
@@ -2951,7 +2951,7 @@ Mods: {
 			UnlimitedUse30: 堆叠30个以上时不消耗
 			PermanentEffectNearby: 为附近的玩家提供永久性增益
 			WorksFromBanks: 在猪猪存钱罐和保险箱中同样生效
-			SoldBySquirrel: 高顶礼帽松鼠售卖
+			SoldBySquirrel: Furgo售卖
 			SomeMaterialsSold: 售卖部分材料
 			CraftableMaterialsSold: 售卖可合成材料
 			SoldAtThirtyStack: 堆叠30个时售卖
