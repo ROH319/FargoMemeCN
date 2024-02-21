@@ -295,7 +295,7 @@ LethargicBuff: {
 }
 
 LightningRodBuff: {
-	DisplayName: 避雷针
+	DisplayName: 电棍
 	Description: 你会吸引雷电
 }
 
@@ -655,7 +655,7 @@ VortexCDBuff: {
 
 SuperchargedBuff: {
 	DisplayName: 超级充能
-	Description: 增加20%移动速度和10%攻击速度，你的攻击会造成带电和避雷针
+	Description: 增加20%移动速度和10%攻击速度，你的攻击会造成带电和电棍
 }
 
 TribalCharmClickBuff: {
