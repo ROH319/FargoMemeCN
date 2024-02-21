@@ -2590,7 +2590,7 @@ Dicer: {
 }
 
 DragonBreath: {
-	DisplayName: 巨龙之息
+	DisplayName: 龙痰
 	Tooltip:
 		'''
 		使用凝胶作为弹药
@@ -2799,7 +2799,7 @@ DestroyerGun2: {
 }
 
 DragonBreath2: {
-	DisplayName: 龙之终焉
+	DisplayName: 龙痰2
 	Tooltip:
 		'''
 		使用凝胶作为弹药
